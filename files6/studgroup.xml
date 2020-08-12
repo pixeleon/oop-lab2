@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<StudentsGroup GroupID="121.8g">
+    <Students>
+        <Student StudentID="111" Lastname="Aaa" Firstname="Bb"/>
+        <Student StudentID="112" Lastname="Ccc" Firstname="Dd"/>
+        <Student StudentID="113" Lastname="Eee" Firstname="Ff"/>
+    </Students>
+    <GroupInfo>
+        KN faculty, AMS department, Software Engineering (eng)
+    </GroupInfo>
+</StudentsGroup>

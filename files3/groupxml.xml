@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_251" class="java.beans.XMLDecoder">
+ <object class="net.pixeleon.khpi.oop.labtwo.StudentsGroup">
+  <void property="groupID">
+   <string>KH218g.e</string>
+  </void>
+  <void property="students">
+   <array class="net.pixeleon.khpi.oop.labtwo.Student" length="3">
+    <void index="0">
+     <object class="net.pixeleon.khpi.oop.labtwo.Student">
+      <void property="firstname">
+       <string>D</string>
+      </void>
+      <void property="lastname">
+       <string>Bondarenko</string>
+      </void>
+      <void property="studentID">
+       <int>182</int>
+      </void>
+     </object>
+    </void>
+    <void index="1">
+     <object class="net.pixeleon.khpi.oop.labtwo.Student">
+      <void property="firstname">
+       <string>M</string>
+      </void>
+      <void property="lastname">
+       <string>Makeyev</string>
+      </void>
+      <void property="studentID">
+       <int>187</int>
+      </void>
+     </object>
+    </void>
+    <void index="2">
+     <object class="net.pixeleon.khpi.oop.labtwo.Student">
+      <void property="firstname">
+       <string>V</string>
+      </void>
+      <void property="lastname">
+       <string>Sheveliev</string>
+      </void>
+      <void property="studentID">
+       <int>197</int>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>
